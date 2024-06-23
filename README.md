@@ -1,4 +1,4 @@
-# OIBSIP_TASK_NO_1
+# Iris Flower Classification
                                                   Introduction on Classification
 In this project of Iris Flowers Classification, we will be dealing with Logistic Regression Machine Learning Algorithm. We all know about Iris Dataset, and it contains features of different flower species. Independent features in this dataset are Sepal Length, Sepal Width, Petal Length, and Petal Width. All these lengths were in centimeters. And Dependent feature, which will be the output for the model, is Species. It contains the name of the species to which that particular flower with those measurements belongs.
 
